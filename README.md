@@ -24,10 +24,4 @@ This website application was built in ReactJs, Bootstrap and plain css.
 <ul>
    <li>I would like to improve more on the Header features. </li>
    <li> I would like to improve on API integration etc. </li>
-
-
-
-
-
-
 </ul>
